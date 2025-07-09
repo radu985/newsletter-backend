@@ -1,0 +1,21 @@
+Django>=4.2
+# Django REST Framework
+ djangorestframework
+# CORS headers for API
+ django-cors-headers
+# WSGI server for production
+ gunicorn
+# PostgreSQL driver
+ psycopg2-binary
+# S3 storage
+ django-storages
+ boto3
+# Celery for background tasks
+ celery
+ django-celery-beat
+# Filtering support for DRF
+ django-filter
+# Load .env files
+ python-dotenv
+# Image support
+ Pillow

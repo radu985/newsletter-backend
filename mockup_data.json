@@ -1,0 +1,1093 @@
+{
+  "dashboard_stats": {
+    "total_subscribers": 15420,
+    "total_newsletters": 45,
+    "total_articles": 23,
+    "total_revenue": 125000,
+    "growth_rate": 12.5,
+    "active_users": 8920,
+    "conversion_rate": 3.2,
+    "open_rate": 24.8
+  },
+  "subscriber_growth": [
+    {
+      "date": "2024-01-01",
+      "subscribers": 12010,
+      "new_subscribers": 25,
+      "unsubscribers": 6
+    },
+    {
+      "date": "2024-01-02",
+      "subscribers": 12006,
+      "new_subscribers": 18,
+      "unsubscribers": 3
+    },
+    {
+      "date": "2024-01-03",
+      "subscribers": 12042,
+      "new_subscribers": 20,
+      "unsubscribers": 4
+    },
+    {
+      "date": "2024-01-04",
+      "subscribers": 12018,
+      "new_subscribers": 12,
+      "unsubscribers": 6
+    },
+    {
+      "date": "2024-01-05",
+      "subscribers": 12027,
+      "new_subscribers": 10,
+      "unsubscribers": 7
+    },
+    {
+      "date": "2024-01-06",
+      "subscribers": 12047,
+      "new_subscribers": 10,
+      "unsubscribers": 2
+    },
+    {
+      "date": "2024-01-07",
+      "subscribers": 12061,
+      "new_subscribers": 22,
+      "unsubscribers": 6
+    },
+    {
+      "date": "2024-01-08",
+      "subscribers": 12087,
+      "new_subscribers": 7,
+      "unsubscribers": 7
+    },
+    {
+      "date": "2024-01-09",
+      "subscribers": 12104,
+      "new_subscribers": 9,
+      "unsubscribers": 1
+    },
+    {
+      "date": "2024-01-10",
+      "subscribers": 12100,
+      "new_subscribers": 6,
+      "unsubscribers": 2
+    },
+    {
+      "date": "2024-01-11",
+      "subscribers": 12104,
+      "new_subscribers": 20,
+      "unsubscribers": 4
+    },
+    {
+      "date": "2024-01-12",
+      "subscribers": 12130,
+      "new_subscribers": 11,
+      "unsubscribers": 5
+    },
+    {
+      "date": "2024-01-13",
+      "subscribers": 12120,
+      "new_subscribers": 9,
+      "unsubscribers": 6
+    },
+    {
+      "date": "2024-01-14",
+      "subscribers": 12159,
+      "new_subscribers": 9,
+      "unsubscribers": 3
+    },
+    {
+      "date": "2024-01-15",
+      "subscribers": 12172,
+      "new_subscribers": 11,
+      "unsubscribers": 3
+    },
+    {
+      "date": "2024-01-16",
+      "subscribers": 12187,
+      "new_subscribers": 16,
+      "unsubscribers": 4
+    },
+    {
+      "date": "2024-01-17",
+      "subscribers": 12174,
+      "new_subscribers": 25,
+      "unsubscribers": 5
+    },
+    {
+      "date": "2024-01-18",
+      "subscribers": 12210,
+      "new_subscribers": 9,
+      "unsubscribers": 5
+    },
+    {
+      "date": "2024-01-19",
+      "subscribers": 12203,
+      "new_subscribers": 6,
+      "unsubscribers": 8
+    },
+    {
+      "date": "2024-01-20",
+      "subscribers": 12208,
+      "new_subscribers": 16,
+      "unsubscribers": 8
+    },
+    {
+      "date": "2024-01-21",
+      "subscribers": 12218,
+      "new_subscribers": 21,
+      "unsubscribers": 6
+    },
+    {
+      "date": "2024-01-22",
+      "subscribers": 12250,
+      "new_subscribers": 20,
+      "unsubscribers": 8
+    },
+    {
+      "date": "2024-01-23",
+      "subscribers": 12276,
+      "new_subscribers": 9,
+      "unsubscribers": 6
+    },
+    {
+      "date": "2024-01-24",
+      "subscribers": 12263,
+      "new_subscribers": 16,
+      "unsubscribers": 8
+    },
+    {
+      "date": "2024-01-25",
+      "subscribers": 12298,
+      "new_subscribers": 20,
+      "unsubscribers": 4
+    },
+    {
+      "date": "2024-01-26",
+      "subscribers": 12283,
+      "new_subscribers": 18,
+      "unsubscribers": 5
+    },
+    {
+      "date": "2024-01-27",
+      "subscribers": 12324,
+      "new_subscribers": 10,
+      "unsubscribers": 3
+    },
+    {
+      "date": "2024-01-28",
+      "subscribers": 12324,
+      "new_subscribers": 14,
+      "unsubscribers": 2
+    },
+    {
+      "date": "2024-01-29",
+      "subscribers": 12323,
+      "new_subscribers": 6,
+      "unsubscribers": 2
+    },
+    {
+      "date": "2024-01-30",
+      "subscribers": 12336,
+      "new_subscribers": 11,
+      "unsubscribers": 4
+    },
+    {
+      "date": "2024-01-31",
+      "subscribers": 12346,
+      "new_subscribers": 11,
+      "unsubscribers": 2
+    },
+    {
+      "date": "2024-02-01",
+      "subscribers": 12358,
+      "new_subscribers": 23,
+      "unsubscribers": 3
+    },
+    {
+      "date": "2024-02-02",
+      "subscribers": 12394,
+      "new_subscribers": 25,
+      "unsubscribers": 6
+    },
+    {
+      "date": "2024-02-03",
+      "subscribers": 12380,
+      "new_subscribers": 18,
+      "unsubscribers": 6
+    },
+    {
+      "date": "2024-02-04",
+      "subscribers": 12425,
+      "new_subscribers": 23,
+      "unsubscribers": 7
+    },
+    {
+      "date": "2024-02-05",
+      "subscribers": 12425,
+      "new_subscribers": 23,
+      "unsubscribers": 7
+    },
+    {
+      "date": "2024-02-06",
+      "subscribers": 12419,
+      "new_subscribers": 23,
+      "unsubscribers": 4
+    },
+    {
+      "date": "2024-02-07",
+      "subscribers": 12430,
+      "new_subscribers": 12,
+      "unsubscribers": 5
+    },
+    {
+      "date": "2024-02-08",
+      "subscribers": 12451,
+      "new_subscribers": 24,
+      "unsubscribers": 3
+    },
+    {
+      "date": "2024-02-09",
+      "subscribers": 12463,
+      "new_subscribers": 6,
+      "unsubscribers": 2
+    },
+    {
+      "date": "2024-02-10",
+      "subscribers": 12484,
+      "new_subscribers": 9,
+      "unsubscribers": 6
+    },
+    {
+      "date": "2024-02-11",
+      "subscribers": 12493,
+      "new_subscribers": 13,
+      "unsubscribers": 8
+    },
+    {
+      "date": "2024-02-12",
+      "subscribers": 12489,
+      "new_subscribers": 10,
+      "unsubscribers": 1
+    },
+    {
+      "date": "2024-02-13",
+      "subscribers": 12538,
+      "new_subscribers": 20,
+      "unsubscribers": 8
+    },
+    {
+      "date": "2024-02-14",
+      "subscribers": 12531,
+      "new_subscribers": 18,
+      "unsubscribers": 8
+    },
+    {
+      "date": "2024-02-15",
+      "subscribers": 12526,
+      "new_subscribers": 22,
+      "unsubscribers": 5
+    },
+    {
+      "date": "2024-02-16",
+      "subscribers": 12575,
+      "new_subscribers": 22,
+      "unsubscribers": 4
+    },
+    {
+      "date": "2024-02-17",
+      "subscribers": 12575,
+      "new_subscribers": 12,
+      "unsubscribers": 5
+    },
+    {
+      "date": "2024-02-18",
+      "subscribers": 12558,
+      "new_subscribers": 14,
+      "unsubscribers": 6
+    },
+    {
+      "date": "2024-02-19",
+      "subscribers": 12596,
+      "new_subscribers": 18,
+      "unsubscribers": 8
+    },
+    {
+      "date": "2024-02-20",
+      "subscribers": 12583,
+      "new_subscribers": 11,
+      "unsubscribers": 6
+    },
+    {
+      "date": "2024-02-21",
+      "subscribers": 12621,
+      "new_subscribers": 22,
+      "unsubscribers": 6
+    },
+    {
+      "date": "2024-02-22",
+      "subscribers": 12606,
+      "new_subscribers": 16,
+      "unsubscribers": 8
+    },
+    {
+      "date": "2024-02-23",
+      "subscribers": 12638,
+      "new_subscribers": 19,
+      "unsubscribers": 7
+    },
+    {
+      "date": "2024-02-24",
+      "subscribers": 12643,
+      "new_subscribers": 16,
+      "unsubscribers": 3
+    },
+    {
+      "date": "2024-02-25",
+      "subscribers": 12655,
+      "new_subscribers": 20,
+      "unsubscribers": 8
+    },
+    {
+      "date": "2024-02-26",
+      "subscribers": 12678,
+      "new_subscribers": 10,
+      "unsubscribers": 3
+    },
+    {
+      "date": "2024-02-27",
+      "subscribers": 12686,
+      "new_subscribers": 11,
+      "unsubscribers": 5
+    },
+    {
+      "date": "2024-02-28",
+      "subscribers": 12698,
+      "new_subscribers": 6,
+      "unsubscribers": 5
+    },
+    {
+      "date": "2024-02-29",
+      "subscribers": 12691,
+      "new_subscribers": 10,
+      "unsubscribers": 1
+    },
+    {
+      "date": "2024-03-01",
+      "subscribers": 12724,
+      "new_subscribers": 10,
+      "unsubscribers": 4
+    },
+    {
+      "date": "2024-03-02",
+      "subscribers": 12709,
+      "new_subscribers": 24,
+      "unsubscribers": 1
+    },
+    {
+      "date": "2024-03-03",
+      "subscribers": 12764,
+      "new_subscribers": 6,
+      "unsubscribers": 7
+    },
+    {
+      "date": "2024-03-04",
+      "subscribers": 12762,
+      "new_subscribers": 23,
+      "unsubscribers": 4
+    },
+    {
+      "date": "2024-03-05",
+      "subscribers": 12758,
+      "new_subscribers": 21,
+      "unsubscribers": 5
+    },
+    {
+      "date": "2024-03-06",
+      "subscribers": 12765,
+      "new_subscribers": 13,
+      "unsubscribers": 6
+    },
+    {
+      "date": "2024-03-07",
+      "subscribers": 12783,
+      "new_subscribers": 13,
+      "unsubscribers": 1
+    },
+    {
+      "date": "2024-03-08",
+      "subscribers": 12805,
+      "new_subscribers": 16,
+      "unsubscribers": 5
+    },
+    {
+      "date": "2024-03-09",
+      "subscribers": 12811,
+      "new_subscribers": 7,
+      "unsubscribers": 6
+    },
+    {
+      "date": "2024-03-10",
+      "subscribers": 12809,
+      "new_subscribers": 22,
+      "unsubscribers": 7
+    },
+    {
+      "date": "2024-03-11",
+      "subscribers": 12823,
+      "new_subscribers": 10,
+      "unsubscribers": 4
+    },
+    {
+      "date": "2024-03-12",
+      "subscribers": 12873,
+      "new_subscribers": 25,
+      "unsubscribers": 4
+    },
+    {
+      "date": "2024-03-13",
+      "subscribers": 12869,
+      "new_subscribers": 18,
+      "unsubscribers": 7
+    },
+    {
+      "date": "2024-03-14",
+      "subscribers": 12861,
+      "new_subscribers": 17,
+      "unsubscribers": 6
+    },
+    {
+      "date": "2024-03-15",
+      "subscribers": 12898,
+      "new_subscribers": 9,
+      "unsubscribers": 4
+    },
+    {
+      "date": "2024-03-16",
+      "subscribers": 12920,
+      "new_subscribers": 24,
+      "unsubscribers": 6
+    },
+    {
+      "date": "2024-03-17",
+      "subscribers": 12910,
+      "new_subscribers": 5,
+      "unsubscribers": 1
+    },
+    {
+      "date": "2024-03-18",
+      "subscribers": 12927,
+      "new_subscribers": 22,
+      "unsubscribers": 5
+    },
+    {
+      "date": "2024-03-19",
+      "subscribers": 12947,
+      "new_subscribers": 10,
+      "unsubscribers": 2
+    },
+    {
+      "date": "2024-03-20",
+      "subscribers": 12969,
+      "new_subscribers": 22,
+      "unsubscribers": 7
+    },
+    {
+      "date": "2024-03-21",
+      "subscribers": 12959,
+      "new_subscribers": 8,
+      "unsubscribers": 2
+    },
+    {
+      "date": "2024-03-22",
+      "subscribers": 12987,
+      "new_subscribers": 24,
+      "unsubscribers": 1
+    },
+    {
+      "date": "2024-03-23",
+      "subscribers": 13006,
+      "new_subscribers": 17,
+      "unsubscribers": 3
+    },
+    {
+      "date": "2024-03-24",
+      "subscribers": 12999,
+      "new_subscribers": 13,
+      "unsubscribers": 4
+    },
+    {
+      "date": "2024-03-25",
+      "subscribers": 13023,
+      "new_subscribers": 5,
+      "unsubscribers": 2
+    },
+    {
+      "date": "2024-03-26",
+      "subscribers": 13022,
+      "new_subscribers": 25,
+      "unsubscribers": 2
+    },
+    {
+      "date": "2024-03-27",
+      "subscribers": 13047,
+      "new_subscribers": 23,
+      "unsubscribers": 6
+    },
+    {
+      "date": "2024-03-28",
+      "subscribers": 13026,
+      "new_subscribers": 15,
+      "unsubscribers": 5
+    },
+    {
+      "date": "2024-03-29",
+      "subscribers": 13047,
+      "new_subscribers": 23,
+      "unsubscribers": 8
+    },
+    {
+      "date": "2024-03-30",
+      "subscribers": 13087,
+      "new_subscribers": 16,
+      "unsubscribers": 7
+    }
+  ],
+  "newsletter_performance": [
+    {
+      "title": "Welcome to Our Newsletter!",
+      "sent": 15420,
+      "delivered": 15100,
+      "opened": 3740,
+      "clicked": 480,
+      "bounced": 320,
+      "open_rate": 24.8,
+      "click_rate": 3.2,
+      "date": "2024-03-15"
+    },
+    {
+      "title": "Top 10 Productivity Tips for 2024",
+      "sent": 15420,
+      "delivered": 15050,
+      "opened": 3920,
+      "clicked": 520,
+      "bounced": 370,
+      "open_rate": 26.0,
+      "click_rate": 3.5,
+      "date": "2024-03-08"
+    },
+    {
+      "title": "Monthly Industry Roundup - January 2024",
+      "sent": 14800,
+      "delivered": 14500,
+      "opened": 3550,
+      "clicked": 440,
+      "bounced": 300,
+      "open_rate": 24.5,
+      "click_rate": 3.0,
+      "date": "2024-02-29"
+    },
+    {
+      "title": "New Features Released - February 2024",
+      "sent": 14800,
+      "delivered": 14450,
+      "opened": 3780,
+      "clicked": 510,
+      "bounced": 350,
+      "open_rate": 26.2,
+      "click_rate": 3.5,
+      "date": "2024-02-22"
+    },
+    {
+      "title": "Q1 2024 Business Strategy Guide",
+      "sent": 14200,
+      "delivered": 13900,
+      "opened": 3420,
+      "clicked": 430,
+      "bounced": 300,
+      "open_rate": 24.6,
+      "click_rate": 3.1,
+      "date": "2024-02-15"
+    }
+  ],
+  "revenue_data": [
+    {
+      "month": "2024-01",
+      "revenue": 8001,
+      "growth": 0.0,
+      "subscriptions": 1129,
+      "courses": 273,
+      "consulting": 187
+    },
+    {
+      "month": "2024-02",
+      "revenue": 8483,
+      "growth": 6.0,
+      "subscriptions": 975,
+      "courses": 300,
+      "consulting": 144
+    },
+    {
+      "month": "2024-03",
+      "revenue": 8945,
+      "growth": 11.8,
+      "subscriptions": 878,
+      "courses": 282,
+      "consulting": 266
+    },
+    {
+      "month": "2024-04",
+      "revenue": 9355,
+      "growth": 16.9,
+      "subscriptions": 1112,
+      "courses": 226,
+      "consulting": 178
+    },
+    {
+      "month": "2024-05",
+      "revenue": 9703,
+      "growth": 21.3,
+      "subscriptions": 1074,
+      "courses": 378,
+      "consulting": 121
+    },
+    {
+      "month": "2024-06",
+      "revenue": 9985,
+      "growth": 24.8,
+      "subscriptions": 1003,
+      "courses": 353,
+      "consulting": 192
+    },
+    {
+      "month": "2024-07",
+      "revenue": 10348,
+      "growth": 29.4,
+      "subscriptions": 1176,
+      "courses": 343,
+      "consulting": 288
+    },
+    {
+      "month": "2024-08",
+      "revenue": 10880,
+      "growth": 36.0,
+      "subscriptions": 1024,
+      "courses": 201,
+      "consulting": 172
+    },
+    {
+      "month": "2024-09",
+      "revenue": 11324,
+      "growth": 41.6,
+      "subscriptions": 994,
+      "courses": 231,
+      "consulting": 216
+    },
+    {
+      "month": "2024-10",
+      "revenue": 11619,
+      "growth": 45.2,
+      "subscriptions": 972,
+      "courses": 304,
+      "consulting": 292
+    },
+    {
+      "month": "2024-11",
+      "revenue": 11953,
+      "growth": 49.4,
+      "subscriptions": 1051,
+      "courses": 258,
+      "consulting": 247
+    },
+    {
+      "month": "2024-12",
+      "revenue": 12358,
+      "growth": 54.5,
+      "subscriptions": 1109,
+      "courses": 208,
+      "consulting": 206
+    }
+  ],
+  "top_content": [
+    {
+      "title": "The Future of AI in Business: 2024 Trends",
+      "views": 8500,
+      "engagement": 6.8,
+      "shares": 420,
+      "comments": 89,
+      "category": "Technology",
+      "published_date": "2024-03-10"
+    },
+    {
+      "title": "10 Productivity Hacks That Actually Work",
+      "views": 7200,
+      "engagement": 5.9,
+      "shares": 380,
+      "comments": 67,
+      "category": "Productivity",
+      "published_date": "2024-03-05"
+    },
+    {
+      "title": "Email Marketing Mastery Playbook",
+      "views": 6800,
+      "engagement": 5.2,
+      "shares": 320,
+      "comments": 45,
+      "category": "Marketing",
+      "published_date": "2024-02-28"
+    },
+    {
+      "title": "Digital Marketing Trends for 2024",
+      "views": 6100,
+      "engagement": 4.8,
+      "shares": 290,
+      "comments": 52,
+      "category": "Marketing",
+      "published_date": "2024-02-20"
+    },
+    {
+      "title": "Building a Sustainable Business Model",
+      "views": 5800,
+      "engagement": 4.5,
+      "shares": 270,
+      "comments": 38,
+      "category": "Business",
+      "published_date": "2024-02-15"
+    }
+  ],
+  "user_activity": [
+    {
+      "hour": 0,
+      "users_online": 174,
+      "page_views": 522,
+      "newsletter_signups": 5,
+      "tool_downloads": 0
+    },
+    {
+      "hour": 1,
+      "users_online": 70,
+      "page_views": 140,
+      "newsletter_signups": 2,
+      "tool_downloads": 1
+    },
+    {
+      "hour": 2,
+      "users_online": 123,
+      "page_views": 615,
+      "newsletter_signups": 5,
+      "tool_downloads": 3
+    },
+    {
+      "hour": 3,
+      "users_online": 100,
+      "page_views": 200,
+      "newsletter_signups": 1,
+      "tool_downloads": 1
+    },
+    {
+      "hour": 4,
+      "users_online": 114,
+      "page_views": 342,
+      "newsletter_signups": 5,
+      "tool_downloads": 1
+    },
+    {
+      "hour": 5,
+      "users_online": 174,
+      "page_views": 696,
+      "newsletter_signups": 2,
+      "tool_downloads": 3
+    },
+    {
+      "hour": 6,
+      "users_online": 116,
+      "page_views": 348,
+      "newsletter_signups": 1,
+      "tool_downloads": 3
+    },
+    {
+      "hour": 7,
+      "users_online": 126,
+      "page_views": 252,
+      "newsletter_signups": 4,
+      "tool_downloads": 0
+    },
+    {
+      "hour": 8,
+      "users_online": 65,
+      "page_views": 130,
+      "newsletter_signups": 3,
+      "tool_downloads": 1
+    },
+    {
+      "hour": 9,
+      "users_online": 190,
+      "page_views": 570,
+      "newsletter_signups": 4,
+      "tool_downloads": 1
+    },
+    {
+      "hour": 10,
+      "users_online": 151,
+      "page_views": 755,
+      "newsletter_signups": 2,
+      "tool_downloads": 3
+    },
+    {
+      "hour": 11,
+      "users_online": 225,
+      "page_views": 900,
+      "newsletter_signups": 0,
+      "tool_downloads": 2
+    },
+    {
+      "hour": 12,
+      "users_online": 251,
+      "page_views": 1255,
+      "newsletter_signups": 4,
+      "tool_downloads": 0
+    },
+    {
+      "hour": 13,
+      "users_online": 223,
+      "page_views": 446,
+      "newsletter_signups": 2,
+      "tool_downloads": 0
+    },
+    {
+      "hour": 14,
+      "users_online": 223,
+      "page_views": 1115,
+      "newsletter_signups": 4,
+      "tool_downloads": 3
+    },
+    {
+      "hour": 15,
+      "users_online": 195,
+      "page_views": 975,
+      "newsletter_signups": 3,
+      "tool_downloads": 0
+    },
+    {
+      "hour": 16,
+      "users_online": 211,
+      "page_views": 422,
+      "newsletter_signups": 3,
+      "tool_downloads": 2
+    },
+    {
+      "hour": 17,
+      "users_online": 156,
+      "page_views": 468,
+      "newsletter_signups": 4,
+      "tool_downloads": 3
+    },
+    {
+      "hour": 18,
+      "users_online": 51,
+      "page_views": 255,
+      "newsletter_signups": 3,
+      "tool_downloads": 0
+    },
+    {
+      "hour": 19,
+      "users_online": 71,
+      "page_views": 142,
+      "newsletter_signups": 1,
+      "tool_downloads": 3
+    },
+    {
+      "hour": 20,
+      "users_online": 188,
+      "page_views": 376,
+      "newsletter_signups": 1,
+      "tool_downloads": 0
+    },
+    {
+      "hour": 21,
+      "users_online": 134,
+      "page_views": 268,
+      "newsletter_signups": 2,
+      "tool_downloads": 0
+    },
+    {
+      "hour": 22,
+      "users_online": 106,
+      "page_views": 424,
+      "newsletter_signups": 0,
+      "tool_downloads": 2
+    },
+    {
+      "hour": 23,
+      "users_online": 128,
+      "page_views": 512,
+      "newsletter_signups": 5,
+      "tool_downloads": 1
+    }
+  ],
+  "geographic_data": [
+    {
+      "country": "United States",
+      "users": 4520,
+      "percentage": 29.3
+    },
+    {
+      "country": "United Kingdom",
+      "users": 2340,
+      "percentage": 15.2
+    },
+    {
+      "country": "Canada",
+      "users": 1890,
+      "percentage": 12.3
+    },
+    {
+      "country": "Australia",
+      "users": 1560,
+      "percentage": 10.1
+    },
+    {
+      "country": "Germany",
+      "users": 1230,
+      "percentage": 8.0
+    },
+    {
+      "country": "France",
+      "users": 980,
+      "percentage": 6.4
+    },
+    {
+      "country": "Netherlands",
+      "users": 760,
+      "percentage": 4.9
+    },
+    {
+      "country": "Sweden",
+      "users": 620,
+      "percentage": 4.0
+    },
+    {
+      "country": "Other",
+      "users": 1520,
+      "percentage": 9.8
+    }
+  ],
+  "device_data": [
+    {
+      "device": "Desktop",
+      "users": 8920,
+      "percentage": 57.9
+    },
+    {
+      "device": "Mobile",
+      "users": 5420,
+      "percentage": 35.2
+    },
+    {
+      "device": "Tablet",
+      "users": 1080,
+      "percentage": 7.0
+    }
+  ],
+  "traffic_sources": [
+    {
+      "source": "Organic Search",
+      "users": 6950,
+      "percentage": 45.2
+    },
+    {
+      "source": "Direct",
+      "users": 4320,
+      "percentage": 28.1
+    },
+    {
+      "source": "Social Media",
+      "users": 2350,
+      "percentage": 15.3
+    },
+    {
+      "source": "Email",
+      "users": 1340,
+      "percentage": 8.7
+    },
+    {
+      "source": "Referral",
+      "users": 410,
+      "percentage": 2.7
+    }
+  ],
+  "recent_activities": [
+    {
+      "type": "newsletter_sent",
+      "title": "Welcome to Our Newsletter!",
+      "description": "Newsletter sent to 15,420 subscribers",
+      "timestamp": "2024-03-15T10:30:00Z",
+      "user": "admin@newsletter.com",
+      "icon": "\ud83d\udce7"
+    },
+    {
+      "type": "article_published",
+      "title": "The Future of AI in Business: 2024 Trends",
+      "description": "New article published",
+      "timestamp": "2024-03-10T14:15:00Z",
+      "user": "writer@newsletter.com",
+      "icon": "\ud83d\udcdd"
+    },
+    {
+      "type": "playbook_created",
+      "title": "Email Marketing Mastery Playbook",
+      "description": "New playbook created",
+      "timestamp": "2024-03-08T09:45:00Z",
+      "user": "editor@newsletter.com",
+      "icon": "\ud83d\udcda"
+    },
+    {
+      "type": "tool_added",
+      "title": "Canva",
+      "description": "New tool added to the directory",
+      "timestamp": "2024-03-05T16:20:00Z",
+      "user": "admin@newsletter.com",
+      "icon": "\ud83d\udee0\ufe0f"
+    },
+    {
+      "type": "report_generated",
+      "title": "Q1 2024 Newsletter Performance Report",
+      "description": "Analytics report generated",
+      "timestamp": "2024-03-01T11:00:00Z",
+      "user": "analyst@newsletter.com",
+      "icon": "\ud83d\udcca"
+    }
+  ],
+  "notifications": [
+    {
+      "id": 1,
+      "type": "success",
+      "title": "Newsletter Sent Successfully",
+      "message": "Your newsletter 'Welcome to Our Newsletter!' has been sent to 15,420 subscribers.",
+      "timestamp": "2024-03-15T10:30:00Z",
+      "read": false
+    },
+    {
+      "id": 2,
+      "type": "info",
+      "title": "New Subscriber Milestone",
+      "message": "Congratulations! You've reached 15,000 subscribers.",
+      "timestamp": "2024-03-14T15:20:00Z",
+      "read": false
+    },
+    {
+      "id": 3,
+      "type": "warning",
+      "title": "High Bounce Rate",
+      "message": "Your recent newsletter had a bounce rate of 2.1%, which is above the recommended threshold.",
+      "timestamp": "2024-03-13T09:15:00Z",
+      "read": true
+    },
+    {
+      "id": 4,
+      "type": "success",
+      "title": "Article Published",
+      "message": "Your article 'The Future of AI in Business: 2024 Trends' has been published successfully.",
+      "timestamp": "2024-03-10T14:15:00Z",
+      "read": true
+    }
+  ]
+}

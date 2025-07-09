@@ -1,0 +1,15 @@
+{{ newsletter.title }}
+===============================================
+
+Newsletter from {{ newsletter.author.name }}
+
+{{ newsletter.content }}
+
+===============================================
+
+You received this email because you're subscribed to our newsletter.
+
+To unsubscribe from this newsletter, visit: {{ unsubscribe_url }}
+
+This email was sent to {{ subscriber.email }}
+Sent on {{ newsletter.sent_at|date:"F j, Y" }} 
